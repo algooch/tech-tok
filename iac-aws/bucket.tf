@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "backend" {
-  bucket = "amanda-terraform-backend-bucket"
+  bucket = "alana-terraform-backend-bucket"
   acl    = "private"
 
   versioning {
