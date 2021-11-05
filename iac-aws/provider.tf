@@ -14,7 +14,7 @@ provider "aws" {
 
 #terraform {
 #   backend "s3" {
-#     bucket         = "amanda-terraform-backend-bucket"
+#     bucket         = "alana-terraform-backend-bucket"
 #     key            = "terraform.tfstate"
 #     region         = "us-east-1"
 #     dynamodb_table = "terraform-lock"
