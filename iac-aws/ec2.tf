@@ -26,6 +26,6 @@ resource "aws_instance" "aws_example_ec2" {
  EOF
 
   tags = {
-    Name = "amanda_example"
+    Name = "alana_example"
   }
 }
